@@ -237,3 +237,6 @@ This repository serves as the official landing page for Indiana Jones and the Gr
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Indiana Jones and the Great Circle today!**
+
+---
+**Last updated:** 2026-09-11 18:56:12 UTC
